@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+python-multipart
+opencv-python
+numpy
+insightface
+onnxruntime
+pyttsx3
+PySide6
+python-dotenv
