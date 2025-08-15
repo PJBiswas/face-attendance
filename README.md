@@ -29,5 +29,13 @@ It lets you enroll employees, log attendance using a webcam, and manage data thr
 
 ### 1️⃣ Clone the Repository
 ```bash
+
+🚀 Usage
+
+Open Admin UI: Go to http://127.0.0.1:8000/admin/employees to add employees.
+
+Run the kiosk to scan attendance via webcam.
+
+Attendance is stored in the database with timestamps and lateness info.
 git clone https://github.com/PJBiswas/face-attendance.git
 cd face-attendance
